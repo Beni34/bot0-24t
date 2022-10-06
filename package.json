@@ -1,0 +1,16 @@
+{
+  "name": "Neriserver Igazgato",
+  "version": "1.1",
+  "description": "Neriserver Igazgato",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beni34",
+  "license": "MIT",
+  "dependencies": {
+    "bot.js": "0.0.1",
+    "mineflayer": "^4.4.0",
+    "mineflayer-pathfinder": "^2.3.3"
+  }
+}

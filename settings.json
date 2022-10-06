@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "Igazgato001",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "Neri7bGame.aternos.me",
+    "port": 18565,
+    "version": "1.18.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 200000,
+    "y": 150,
+    "z": 200000
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "Helloworld001"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 180,
+
+      "messages": [
+        "A szerver a 7/B osztály tulajdona!",
+        "Tulajdonos: Beni34 és Legend. ",
+        "Maradj még néhány órát :) ",
+        "0-24 online"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 2
+  }
+}
